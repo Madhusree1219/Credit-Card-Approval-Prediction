@@ -135,7 +135,7 @@ Located in the `Images/` folder, these plots help analyze the performance of:
 
 ## 👨‍💻 Author
 
-* **Uditya Narayan Tiwari** – [GitHub](https://github.com/udityamerit)
+* **Nandavarapu Madhu Sree** – [GitHub](https://github.com/Madhusree1219/)
 
 ---
 
@@ -147,15 +147,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Connect with Me
 
-**Uditya Narayan Tiwari**
+**Nandavarapu Madhu Sree**
 
-🌐 [My Portfolio](https://udityanarayantiwari.netlify.app/)
 
-💼 [My LinkedIn](https://www.linkedin.com/in/uditya-narayan-tiwari-562332289/)
+💼 [My LinkedIn](https://www.linkedin.com/in/madhu-sree-nandavarapu-02a58835a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-👨‍💻 [My GitHub](https://github.com/udityamerit)
+👨‍💻 [My GitHub](https://github.com/Madhusree1219/)
 
-📧 [Email Id](uditmerit@gmail.com)
+📧 [Email Id](madhusree1219@gmail.com)
 
 
 
